@@ -1,1 +1,0 @@
-estoy en pagina de lnd
