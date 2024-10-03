@@ -10,29 +10,20 @@
 
 ### Descripción del Proyecto
 
-Este proyecto es una breve introducción a Markdown. Aquí encontrarás más información sobre las herramientas y tecnologías que utilicé:
+#### Este proyecto es una introducción al lenguaje Markdown, que es ampliamente utilizado para formatear texto en plataformas como GitHub, foros, documentación técnica, y más. A través de este proyecto, aprenderás a:
 
-- **Lenguaje de programación:** Python
-- **Framework:** Django
-- **Fecha de creación:** Octubre 2023
-- **Estado:** Completado
++ Crear encabezados, listas, enlaces e imágenes en Markdown.
++ Usar Markdown para formatear código en bloques y líneas.
++ Generar tablas, citas, y dar formato básico al texto (negrita, cursiva, etc.).
++ Aplicar estilos a la presentación de Markdown.
+
 
 ---
 
 ## Tecnologías Utilizadas
 
-- **HTML**: Para la estructura de la página.
-- **CSS**: Para darle estilo y diseño visual.
 - **GitHub Pages**: Para alojar este sitio web.
-
----
-
-## Contacto
-
-Si quieres saber más sobre este proyecto o colaborar conmigo, puedes contactarme a través de mi [correo electrónico](mailto:tucorreo@example.com) o visitar mi perfil de [LinkedIn](https://linkedin.com/in/tuusuario).
-
+- **Visual Code**: para personalizar la web.
 ---
 
 _¡Gracias por visitar mi página!_ 🚀
-
-+ [Enlace a Introducción a Markdown](Markdown/Introducción-Markdown.md)
